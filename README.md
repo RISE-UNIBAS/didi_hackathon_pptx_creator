@@ -1,4 +1,6 @@
 # didi_hackathon_pptx_creator
+[![Python package](https://github.com/RISE-UNIBAS/didi_hackathon_pptx_creator/actions/workflows/python-package.yml/badge.svg)](https://github.com/RISE-UNIBAS/didi_hackathon_pptx_creator/actions/workflows/python-package.yml)
+
 Simple script to create a Powerpoint slideshow with images.
 
 Usage:
